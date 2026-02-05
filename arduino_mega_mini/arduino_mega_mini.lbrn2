@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.2.01" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+    <Thumbnail Source="iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAABJ0AAASdAHeZh94AAAIiklEQVR4nO3da4xcdR2H8Wem2xvbbaGlsJZSqNZaloIESi0tgpcEK4IUfEHAFCRYYyR4qchFSXxHaFJSlXJJsUAgEUNsoiiVS1DQRuRWCgREKRcRbCm0dAvtLvSyvjgxEhNhds7ZGZvv80k2TbYz///vzTw7OXPOmdrAwMAAkiLV2z2ApPYxAFIwAyAFMwBSMAMgBTMAUjADIAUzAFIwAyAFMwBSMAMgBTMAUjADIAUzAFIwAyAFMwBSMAMgBTMAUjADIAUzAFIwAyAFMwBSMAMgBTMAUjADIAUzAFIwAyAFMwBSMAMgBTMAUjADIAUzAFIwAyAFMwBSMAMgBTMAUjADIAXruPNOWLwYenraPYqkVnn6aVi+HDrqdajX4dxz2z2SpFa55BKo1aBj7FiYMAEWLGj3SJJaZckS6OryGIAUzQBIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwQyAFKyj1LN39cMbz8JjK+DlP0KtDsOGQ0cnTPgI7N8Dcy+qaFRJVWs+AM+thg2PwZ+WwpEL4ajzoKsb+t6E7Zvg7Y3w0I/hkeVwxs/g4LkVji2pCs0FYM2VsO4m6JwIX3kAuo/634994W747YXwtceaHFHSUBn8MYB3euGJW4q/+Oetef8XP8CHP1f89V8yvskRJQ2VwQfgF2fC1E/D8Zc2/pzPXw2HnQ7XHzHo7SQNncEF4ImbYccWOPmawe/0xZXQNRnWXDH450oaEoMLwC/Ph1Oua36302+B+y4vPj2Q1HaNB+DJW2DKPPjQMc3vts9EmLEAHmniHYSkyjUegD9cAVM/VX7HafOLjw4ltV3jAdjVB9NPLb/jjNNg5/by60gqrfEA7H4X+reW37F/K1CDPbvKryWplMYDMH4abHqm/I4b18G4KVAvdxaypPIaD8CkY2H96vI7/vUO6D66/DqSSms8ABM+WlzwU9aLv4f9Di2/jqTSGg/ArK/Dzn7o/Ufzu23fVBxMPPaC5teQVJlBnAhUg5OXw80nwkv3D36nN56Faw+HOd+BzgMG/3xJlRvckbhjvwE9X4Krp8O3XoTRDV7g8+bzcM1hcOlWGDmuiTElDYXBXwzUeSBM+Bj8dDY8eNUHP75/K6yYDd/d4Itf+j/T3C3BFj0Mh34G/vkoXNUNLz0AfVuK/+vfCm/8BV64D+44H67tgXkXwZjuCseWVIXmP4w/dQVsWQ+P3wi/WQS9Lxcn99SHw4guGD4axh4EC++BiTMrHFlSVcqdjTN+Gnz2iuKn/00YNhJ2vwMDe2D0hIpGlDRUqjsdb9R+xb/D96lsSUlDy9uCS8EMgBTMAEjBDIAUzABIwQyAFMwASMEMgBTMAEjBDIAUzABIwbw1r/Rem/8Gz98F6+8pLm3fuBbGHATbNxTfiH30V+GAmVAb1u5JK2EAJAAG4EeHFt9b2TEaJh0Dx30bxkyCUWNhwzrY9BTcOh8OngMn/hC6j2r30KUZAGnH67DsEJh3Mcy+oPgOy//273taTD8F7r0Ybj8DTloKM85o7awVMwDKtmcXLO2Gy7bB8M4PfvyUT8L5D0Lv3+HWk6A+oojCXsqDgMp29TQ44uzGXvzvNe4QOOFy+NV5sPXFoZmtBQyAcr36EIwaX9ztuhlHLizugPXKn6udq4UMgHKtvrC4b+Xk45pf49QbYNXZ1c3UYgZAmXa+DRsfh7N+XW6dw8+Eg+fB2hXVzNViBkCZ1t9d3Y1ruyYVt8bfCxkAZRrYDaP2rWatzv1hz+5q1moxA6BMHZ3w7lvVrNXfW3wXxl7IACjTyC7YsaWatd7aAB0jqlmrxQyAMk3+BAzsKk4EKmvnDpg8u/w6bWAAlGnYSBg5Fp65vfxarz4EU04ov04bGADlmr8MHr4OdvU1v8a93ys+Ctx3anVztZABUK4jz4EDZ8KVTX5t/c9Pg5fuh9NWVjpWK3kxkLJ94ToYMQZumAWLHm38eXd9E97dDoseGbrZWsB3ANLxl8FrT8Hvvg99m9//sa88CDfOhedWw3GLWzPfEPIdgDR6PPygD5ZNgcdvKq4MPGgWzDwLxk4u3iG89iRsXAdrV8KUuTD/JzBpVrsnL80ASAC1Oix+BV5/5j+3BFtzZfGiH9MN2zfBx8+BL6+GA4+A+vB2T1wJAyC918Se4mfO3v/2vhEeA5CCGQApmAGQghkAKZgBkIIZACmYAZCCGQApmAGQghkAKZgBkIIZACmYAZCCGQApmAGQghkAKVhHby9s3gyrVrV7FEmtsmULbNsGHbVa8YvbbmvvQJJap16HWg1qAwMDA+0eRlJ7eAxACmYApGAGQApmAKRgBkAKZgCkYAZACmYApGAGQApmAKRgBkAKZgCkYAZACmYApGAGQApmAKRgBkAKZgCkYAZACmYApGAGQApmAKRgBkAKZgCkYAZACmYApGAGQApmAKRgBkAKZgCkYAZACmYApGAGQApmAKRgBkAKZgCkYAZACvYvam9BA0h9EaEAAAAASUVORK5CYII="/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="1"/>
+        <name Value="Speed 100 mm/min"/>
+        <minPower Value="0"/>
+        <maxPower Value="8"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.66667"/>
+        <dotSpacing Value="0"/>
+        <scanOpt Value="individual"/>
+        <overscan Value="0"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="5"/>
+        <name Value="Speed 300 mm/min"/>
+        <minPower Value="0"/>
+        <maxPower Value="8"/>
+        <maxPower2 Value="20"/>
+        <speed Value="2.5"/>
+        <numPasses Value="2"/>
+        <dotSpacing Value="0"/>
+        <scanOpt Value="individual"/>
+        <overscan Value="0"/>
+        <priority Value="1"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+    </CutSetting>
+    <Shape Type="Rect" CutIndex="1" W="54" H="38" Cr="0">
+        <XForm>1 0 0 -1 250.59 222.838</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" Rx="2" Ry="2">
+        <XForm>1 0 0 -1 227.59 216.838</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" Rx="2" Ry="2">
+        <XForm>1 0 0 -1 266.069 209.838</XForm>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
