@@ -52,14 +52,19 @@
         <tabCount Value="1"/>
         <tabCountMax Value="1"/>
     </CutSetting>
-    <Shape Type="Rect" CutIndex="1" W="54" H="38" Cr="0">
-        <XForm>1 0 0 -1 250.59 222.838</XForm>
-    </Shape>
-    <Shape Type="Ellipse" CutIndex="5" Rx="2" Ry="2">
-        <XForm>1 0 0 -1 227.59 216.838</XForm>
-    </Shape>
-    <Shape Type="Ellipse" CutIndex="5" Rx="2" Ry="2">
-        <XForm>1 0 0 -1 266.069 209.838</XForm>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="1" W="54" H="38" Cr="0">
+                <XForm>1 0 0 -1 250.59 222.838</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" Rx="2" Ry="2">
+                <XForm>1 0 0 -1 227.59 216.838</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" Rx="2" Ry="2">
+                <XForm>1 0 0 -1 266.069 209.838</XForm>
+            </Shape>
+        </Children>
     </Shape>
     <Notes ShowOnLoad="0" Notes=""/>
 </LightBurnProject>
